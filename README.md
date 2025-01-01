@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahammad Sami Khaji</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://github.com/SamiKhaji/SamiKhaji/blob/main/Sami_Header.jpg" alt="samikhaji" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samikhaji" alt="samikhaji" /></a> </p>
 
