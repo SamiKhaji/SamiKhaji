@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samikhaji&show_icons=true&locale=en&layout=compact" alt="samikhaji" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samikhaji&show_icons=true&locale=en" alt="samikhaji" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikhaji&" alt="samikhaji" /></p>
 <p><img align="center" src="https://github.com/SamiKhaji/SamiKhaji/blob/main/Sami_Header.jpg" alt="samikhaji" /></p>
